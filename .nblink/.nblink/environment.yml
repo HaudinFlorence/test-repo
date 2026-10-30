@@ -1,0 +1,8 @@
+
+name: test-repo
+channels:
+  - emscripten-forge
+  - conda-forge
+dependencies:
+  - xeus-python
+  - numpyx
